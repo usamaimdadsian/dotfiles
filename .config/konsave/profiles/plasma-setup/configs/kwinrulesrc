@@ -1,0 +1,14 @@
+[94b6fa30-cbb0-45a4-9fb5-d85069a220e4]
+Description=Window settings for firefox
+above=true
+aboverule=3
+desktops=\\0
+desktopsrule=3
+title=Picture-in-Picture
+titlematch=1
+wmclass=firefox
+wmclassmatch=1
+
+[General]
+count=1
+rules=94b6fa30-cbb0-45a4-9fb5-d85069a220e4
