@@ -2,9 +2,14 @@
 count=0
 
 [Session: saved at previous logout]
-clientId1=10d5c9616b000175195496600000007920003
-count=1
+clientId1=10d5c9616b000175197327200000007750002
+clientId2=10d5c9616b000175197332300000007750004
+count=2
 program1=firefox
-restartCommand1=/usr/lib/firefox/firefox,--sm-client-id,10d5c9616b000175195496600000007920003
+program2=/usr/bin/megasync
+restartCommand1=/usr/lib/firefox/firefox,--sm-client-id,10d5c9616b000175197327200000007750002
+restartCommand2=/usr/bin/megasync,-session,10d5c9616b000175197332300000007750004_1751986803_429533
 restartStyleHint1=0
+restartStyleHint2=0
 userId1=sian
+userId2=sian

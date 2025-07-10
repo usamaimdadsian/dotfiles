@@ -1,5 +1,6 @@
 [Activities][LastVirtualDesktop]
 ab9d2f95-2472-43a9-97dd-8b90aa012662=5b84a4a8-87f7-4cf8-b04c-4cae944d709c
+b7e146b8-d8e4-4757-b4fc-e76f2f6efae1=c80da050-6298-49f0-9db7-a07824cee65b
 
 [Desktops]
 Id_1=9adbdc99-f3db-47e9-b574-d37a47ef8133
@@ -12,6 +13,9 @@ Name_3=work
 Name_4=supplement
 Number=4
 Rows=1
+
+[Plugins]
+slideEnabled=false
 
 [TabBoxAlternative]
 ActivitiesMode=0
@@ -26,16 +30,28 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 [Tiling][5b84a4a8-87f7-4cf8-b04c-4cae944d709c][e4177433-7b30-48ea-bc1c-8e3db558d36d]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][5b84a4a8-87f7-4cf8-b04c-4cae944d709c][e443aec0-f4da-4a63-acca-c4ccfeb4647d]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][9adbdc99-f3db-47e9-b574-d37a47ef8133][e4177433-7b30-48ea-bc1c-8e3db558d36d]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][9adbdc99-f3db-47e9-b574-d37a47ef8133][e443aec0-f4da-4a63-acca-c4ccfeb4647d]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][c80da050-6298-49f0-9db7-a07824cee65b][e4177433-7b30-48ea-bc1c-8e3db558d36d]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][c80da050-6298-49f0-9db7-a07824cee65b][e443aec0-f4da-4a63-acca-c4ccfeb4647d]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][d02c035d-eef0-5c68-aa2f-2e83d0ba08b1]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][d94c702e-27fe-477a-b260-8792ad6d7be8][e4177433-7b30-48ea-bc1c-8e3db558d36d]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][d94c702e-27fe-477a-b260-8792ad6d7be8][e443aec0-f4da-4a63-acca-c4ccfeb4647d]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Xwayland]

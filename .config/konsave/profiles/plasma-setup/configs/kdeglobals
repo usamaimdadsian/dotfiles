@@ -134,7 +134,8 @@ ForegroundVisited=155,89,182
 
 [DirSelect Dialog]
 DirSelectDialog Size=820,584
-History Items[$e]=file:///mnt/linux,file:///
+History Items[$e]=file:$HOME/linux/vms,file:$HOME/linux/vms,file:$HOME/linux/vms,file:$HOME/linux/vms,file:$HOME/Downloads/arch_auto_setup,file:$HOME/linux/vms,file:$HOME/linux/vms,file:$HOME/linux/vms,file:///mnt/linux/usama/video_recordings,file:///mnt/linux,file:///
+Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8b\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
 
 [General]
 ColorSchemeHash=8ff306d9a93379c74540e00506966df24df1798b
@@ -154,7 +155,7 @@ Show Full Path=false
 Show Inline Previews=true
 Show Preview=false
 Show Speedbar=true
-Show hidden files=true
+Show hidden files=false
 Sort by=Name
 Sort directories first=true
 Sort hidden files last=false
