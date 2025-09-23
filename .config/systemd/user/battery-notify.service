@@ -1,0 +1,9 @@
+[Unit]
+Description=Battery notification script
+
+[Service]
+ExecStart=/home/sian/.battery_notification.sh
+Restart=always
+
+[Install]
+WantedBy=default.target
