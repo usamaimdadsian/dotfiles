@@ -146,3 +146,4 @@ unset __conda_setup
 eval $(ssh-agent -s) > /dev/null
 ssh-add ~/.ssh/github > /dev/null 2>&1
 export PATH="/usr/lib/emscripten:$PATH"
+export PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium
