@@ -1,8 +1,0 @@
-[window]
-opacity = 1
-startup_mode = "Maximized"
-decorations = "None"
-
-[colors.primary]
-background = "#02173d"
-
