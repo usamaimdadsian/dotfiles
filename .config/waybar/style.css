@@ -90,6 +90,7 @@ window#waybar {
 }
 
 #clock {
+    min-height: 2.6em;
     color: #a6adc8;
     border-radius: 10px 10px 10px 10px;
     margin-left: 5px;
@@ -120,4 +121,9 @@ window#waybar {
     color:#a6adc8;
     border-radius: 0px 10px 10px 0px;
     margin-right: 10px;
+}
+
+.modules-center {
+    min-width: 320px;
+    justify-content: center;
 }
