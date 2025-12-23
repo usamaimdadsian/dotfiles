@@ -125,3 +125,7 @@ window#waybar {
 .modules-center {
     min-width: 320px;
 }
+
+#notification {
+  font-family: "NotoSansMono Nerd Font";
+}
