@@ -126,6 +126,6 @@ window#waybar {
     min-width: 320px;
 }
 
-#notification {
-  font-family: "NotoSansMono Nerd Font";
-}
+/* #notification { */
+/*   font-family: "NotoSansMono Nerd Font"; */
+/* } */
