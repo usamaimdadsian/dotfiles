@@ -146,3 +146,5 @@ unset __conda_setup
 eval $(ssh-agent -s) > /dev/null
 ssh-add ~/.ssh/github > /dev/null 2>&1
 export PATH="/usr/lib/emscripten:$PATH"
+export PATH="/home/sian/.local/bin:$PATH"
+
