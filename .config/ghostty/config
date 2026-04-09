@@ -50,4 +50,11 @@
 background = #02173d
 background-opacity = 1
 window-decoration = none
-maximize = true
+maximize = false
+fullscreen = true
+window-padding-x = 0
+window-padding-y = 0
+window-step-resize = true
+adjust-cell-height = -2
+adjust-cell-width = 0
+font-family = "Iosevka Term"

@@ -11,3 +11,6 @@ exec zsh
 
 # uv
 export PATH="/home/sian/.local/bin:$PATH"
+
+# opencode
+export PATH=/home/sian/.opencode/bin:$PATH
